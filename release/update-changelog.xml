@@ -1,0 +1,14 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.2</latestVersion>
+    <latestVersionCode>3</latestVersionCode>
+    <url>https://eypcnnapps.github.io/treblechecker.github.io/</url>
+    <releaseNotes>
+- Minor Bug Fixed
+- Resources Updated
+- New About Page
+- New Language: Turkish
+- New Night Mode Color
+    </releaseNotes>
+  </update>
+</AppUpdater>
